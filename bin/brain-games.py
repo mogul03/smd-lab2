@@ -2,7 +2,7 @@
 import sys
 import os
 
-# Добавляем путь к src
+#Добавляем путь к src
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
 
 #!/usr/bin/env python3
@@ -25,4 +25,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
