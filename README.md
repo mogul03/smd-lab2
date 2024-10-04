@@ -1,3 +1,5 @@
+<a href="https://codeclimate.com/github/mogul03/smd-lab2/maintainability"><img src="https://api.codeclimate.com/v1/badges/14c2ab1677e79ec9a45e/maintainability" /></a>
+
 **Выполнил: Гуляев М.О. (БИВТ-21-1)**
 
 ***Обзор функциональности***
